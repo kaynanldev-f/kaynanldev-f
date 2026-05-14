@@ -20,13 +20,7 @@
 
 ## 🚀 Tecnologias
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Git & GitHub
-- Figma
+JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git & GitHub, Figma
 
 
 ## 🌎 Contato
