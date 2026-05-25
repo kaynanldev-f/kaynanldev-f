@@ -1,31 +1,34 @@
+# Kaynan Teixeira
 
-# Olá, eu sou Kaynan Teixeira 👋
+Full Stack Developer | TypeScript | Nest.js | Next.js
 
-💻 Desenvolvedor Front-end Júnior.
+---
 
+## About
 
+Desenvolvedor Full Stack com foco em arquitetura de aplicações web escaláveis e high-performance. Experiência em desenvolvimento de produtos com padrões enterprise, código limpo e best practices.
 
+## Core Technologies
 
-## 🚀 About Me
-- 🎯 Foco em Front-end com React e Next.js
-- 📱 Desenvolvimento de interfaces responsivas
-- 🔗 Consumo de APIs REST
-- 🧩 Criação de componentes reutilizáveis
-- 🎨 Experiência com UI/UX Design utilizando Figma
-- 🤝 Trabalho em equipe com metodologias ágeis
-- 📖 Estudando Análise e Desenvolvimento de Sistemas
+**Languages:** TypeScript, JavaScript  
+**Frontend:** React, Next.js, CSS-in-JS  
+**Backend:** Node.js, Nest.js, REST APIs  
+**Tools & DevOps:** Git, Docker, CI/CD
 
+## Expertise
 
+- Full Stack Development
+- Frontend Architecture
+- TypeScript & Type Safety
+- React & Next.js Ecosystems
+- Performance Optimization
 
+## Connect
 
-## 🚀 Tecnologias
+- **Email:** [kaynanldev@gmail.com](mailto:kaynanldev@gmail.com)
+- **LinkedIn:** [linkedin.com/in/kaynan-teixeira-b6288a2a7](https://www.linkedin.com/in/kaynan-teixeira-b6288a2a7)
+- **Portfolio:** [seu-portfolio.com](link)
 
-JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git & GitHub, Figma
+---
 
-
-## 🌎 Contato
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynan-teixeira-b6288a2a7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:kaynanldev@gmail.com)
-
+*"Writing clean, scalable code that matters."*
