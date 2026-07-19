@@ -4,26 +4,26 @@ Full Stack Developer | TypeScript | Nest.js | Next.js
 
 ---
 
-## About
+## Sobre
 
-Desenvolvedor Full Stack com foco em arquitetura de aplicações web escaláveis e high-performance. Experiência em desenvolvimento de produtos com padrões enterprise, código limpo e best practices.
+Desenvolvedor Full Stack com foco em arquitetura de aplicações web escaláveis ​​e de alto desempenho. Experiência em desenvolvimento de produtos com padrões empresariais, código limpo e melhores práticas.
 
-## Core Technologies
+## Principais tecnologias
 
-**Languages:** TypeScript, JavaScript  
+**Linguagens:** TypeScript, JavaScript  
 **Frontend:** React, Next.js, CSS-in-JS  
 **Backend:** Node.js, Nest.js, REST APIs  
-**Tools & DevOps:** Git, Docker, CI/CD
+**Ferramentas & DevOps:** Git, Docker, CI/CD
 
-## Expertise
+## Experiências
 
-- Full Stack Development
-- Frontend Architecture
-- TypeScript & Type Safety
-- React & Next.js Ecosystems
-- Performance Optimization
+- Desenvolvimento Full Stack
+- Arquitetura de front-end
+- TypeScript e segurança de tipo
+- Ecossistemas React e Next.js
+- Otimização de desempenho
 
-## Connect
+## Conectar
 
 - **Email:** [kaynanldev@gmail.com](mailto:kaynanldev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kaynan-teixeira](https://www.linkedin.com/in/kaynan-teixeira)
