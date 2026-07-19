@@ -26,7 +26,7 @@ Desenvolvedor Full Stack com foco em arquitetura de aplicações web escaláveis
 ## Connect
 
 - **Email:** [kaynanldev@gmail.com](mailto:kaynanldev@gmail.com)
-- **LinkedIn:** [linkedin.com/in/kaynan-teixeira-b6288a2a7](https://www.linkedin.com/in/kaynan-teixeira)
+- **LinkedIn:** [linkedin.com/in/kaynan-teixeira](https://www.linkedin.com/in/kaynan-teixeira)
 
 ---
 
