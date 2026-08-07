@@ -22,7 +22,7 @@
 
 Building digital experiences where code meets design.
 
-Sou Front-End Developer e UI/UX Designer, focado na criação de interfaces modernas, responsivas e intuitivas.
+Front-End Developer & UI/UX Designer criando interfaces modernas com React, Next.js e TypeScript.
 
 Meu principal objetivo é transformar ideias em experiências digitais que sejam visualmente interessantes, fáceis de usar e tecnicamente bem estruturadas.
 
@@ -176,14 +176,10 @@ Interfaces que conectam estética, usabilidade e objetivos reais do produto.
 
 05 // DEVELOPMENT.LOG
 
-2026
-
-[████████████████████████░░] FRONT-END
-[██████████████████████░░░░] REACT / NEXT.JS
-[████████████████████░░░░░░] TYPESCRIPT
-[███████████████████░░░░░░░] UI / UX
-[████████████████░░░░░░░░░░] REST APIs
-[██████████████░░░░░░░░░░░░] NODE.JS
+01  Front-End        React / Next.js
+02  Engineering      TypeScript / APIs
+03  Interface        UI/UX / Figma
+04  Architecture     Components / Design Systems
 
 STATUS → CONTINUOUSLY LEARNING
 
@@ -201,21 +197,7 @@ Node.js — expansão para desenvolvimento Full Stack
 
 Design Systems — componentes reutilizáveis e consistentes
 
-06 // GITHUB.ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/kaynanldev-f">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaynanldev-f&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C3AED&text_color=E5E7EB" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/kaynanldev-f">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaynanldev-f&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E5E7EB" alt="Top Languages"/>
-</a>
-
-</div>
-
-07 // CONNECT
+06 // CONNECT
 
 <div align="center">
 
