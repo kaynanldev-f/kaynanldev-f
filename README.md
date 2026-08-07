@@ -64,79 +64,7 @@ Design        → Figma • UI/UX • Design Systems
 Backend       → Node.js • REST APIs
 Tools         → Git • GitHub • Vite • Postman
 
-03 // SELECTED.WORK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-◈ PORTFOLIO
-
-Portfólio desenvolvido para apresentar projetos, habilidades e experiências através de uma interface moderna.
-
-Stack
-
-TypeScript React UI/UX
-
-Links
-
-→ GitHub
-
-</td>
-
-<td width="50%" valign="top">
-
-◈ BLOG REACT
-
-Projeto desenvolvido explorando React, componentes e construção de interfaces web.
-
-Stack
-
-TypeScript React
-
-Links
-
-→ GitHub
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-◈ COMPONENT QR CODE
-
-Projeto focado na construção de uma interface responsiva utilizando CSS e atenção aos detalhes visuais.
-
-Stack
-
-CSS HTML
-
-Links
-
-→ GitHub
-
-</td>
-
-<td width="50%" valign="top">
-
-◈ PAULA NAVES
-
-Projeto de portfólio com foco em apresentação visual, desenvolvimento Front-End e experiência do usuário.
-
-Stack
-
-TypeScript React UI/UX
-
-Links
-
-→ GitHub
-
-</td>
-</tr>
-</table>
-
-04 // WHAT.I.BUILD
+03 // WHAT.I.BUILD
 
 <table>
 <tr>
@@ -174,12 +102,6 @@ Interfaces que conectam estética, usabilidade e objetivos reais do produto.
 </tr>
 </table>
 
-05 // DEVELOPMENT.LOG
-
-01  Front-End        React / Next.js
-02  Engineering      TypeScript / APIs
-03  Interface        UI/UX / Figma
-04  Architecture     Components / Design Systems
 
 STATUS → CONTINUOUSLY LEARNING
 
@@ -197,7 +119,7 @@ Node.js — expansão para desenvolvimento Full Stack
 
 Design Systems — componentes reutilizáveis e consistentes
 
-06 // CONNECT
+04 // CONNECT
 
 <div align="center">
 
