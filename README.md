@@ -103,7 +103,7 @@ Interfaces que conectam estética, usabilidade e objetivos reais do produto.
 </table>
 
 
-STATUS → CONTINUOUSLY LEARNING
+04 // STATUS → CONTINUOUSLY LEARNING
 
 Atualmente evoluindo em
 
@@ -119,7 +119,7 @@ Node.js — expansão para desenvolvimento Full Stack
 
 Design Systems — componentes reutilizáveis e consistentes
 
-04 // CONNECT
+05 // CONNECT
 
 <div align="center">
 
