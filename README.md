@@ -103,6 +103,7 @@ Interfaces que conectam estética, usabilidade e objetivos reais do produto.
 </table>
 
 
+
 04 // STATUS → CONTINUOUSLY LEARNING
 
 Atualmente evoluindo em
@@ -118,6 +119,7 @@ REST APIs — integração entre aplicações e serviços
 Node.js — expansão para desenvolvimento Full Stack
 
 Design Systems — componentes reutilizáveis e consistentes
+
 
 05 // CONNECT
 
