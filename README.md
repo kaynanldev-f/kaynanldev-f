@@ -60,29 +60,43 @@ Entre as funcionalidades estão:
 
 **Tecnologias:** `Next.js` `React` `TypeScript` `Firebase` `Firestore`
 
-[Ver projeto →](#)
+[Ver projeto](#)
 
----
+### 🎬 SmallVile — Plataforma de Cinema
 
-### 🎬 Cineville
+Aplicação web de uma plataforma de cinemas, desenvolvida em equipe durante minha formação na **QA Coders Academy**.
 
-O **Cineville** foi desenvolvido em equipe durante minha formação na **QA Coders Academy**.
+O projeto permite que usuários encontrem filmes em cartaz, escolham cinema, cidade e sessão, selecionem seus assentos, adicionem produtos da bomboniere e realizem o pagamento via **PIX**, recebendo o ingresso com **QR Code**.
 
-O projeto simula uma plataforma de cinema e me proporcionou experiência prática trabalhando com desenvolvimento Front-End, integração com Back-End e desenvolvimento colaborativo.
+Também participei do desenvolvimento de funcionalidades administrativas para gerenciamento de filmes, sessões, produtos, pedidos, ingressos e outras informações da plataforma.
 
-Durante o projeto, trabalhamos com funcionalidades como:
+### Tecnologias
 
-* Autenticação
-* Catálogo de filmes
-* Produtos
-* Pedidos
-* Fluxo de pagamento
-* Integração com APIs
+`Next.js` `React` `TypeScript` `Tailwind CSS` `API REST` `Valibot` `JWT`
+
+### Principais conceitos
+
+* Desenvolvimento com Next.js App Router
+* Componentização com React
+* TypeScript com tipagem estrita
+* Integração com API REST
+* Autenticação e autorização com JWT
+* Server Actions
 * Gerenciamento de estado
+* Formulários e validação
+* Seleção de assentos
+* Fluxo de compra e pagamento via PIX
+* Geração de QR Code
+* Responsividade
+* Desenvolvimento colaborativo com Git
 
-**Tecnologias:** `Next.js` `React` `TypeScript` `Tailwind CSS` `API REST`
+### O que esse projeto demonstra
 
-[Ver projeto →](#)
+Este projeto me proporcionou experiência prática no desenvolvimento de uma aplicação Front-End mais completa, trabalhando com **integração entre Front-End e Back-End, autenticação, regras de negócio, gerenciamento de estado e diferentes fluxos de usuário**.
+
+Também tive contato com práticas de desenvolvimento colaborativo e organização de código em um projeto de maior escala.
+
+[Ver projeto](#)
 
 ---
 
