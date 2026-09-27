@@ -1,160 +1,127 @@
-<div align="center">
+# Olá, eu sou Kaynan 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,55:101936,100:00D9FF&height=210&section=header&text=KAYNAN%20TEIXEIRA&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=FRONT-END%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descAlignY=59&descSize=15&animation=fadeIn" width="100%"/>
+### Desenvolvedor Front-End | React | Next.js | TypeScript
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+experi%C3%AAncias+digitais.;React+%2B+Next.js+%2B+TypeScript;Interfaces+modernas.+C%C3%B3digo+limpo.+Produtos+digitais." alt="Typing SVG"/>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho construindo minha experiência em desenvolvimento Front-End através de projetos práticos.
 
-<br/>
+Gosto de transformar ideias em interfaces **simples, responsivas e funcionais**, buscando sempre melhorar a experiência de quem utiliza o produto.
 
-<a href="https://github.com/kaynanldev-f">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/kaynan-teixeira">
-<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-<a href="mailto:kaynanldev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
-</a>
+Atualmente, meu foco está em **React, Next.js, TypeScript e desenvolvimento de aplicações web**, além de continuar aprimorando meus conhecimentos em UI/UX.
 
-</div>
+Estou em busca da minha **primeira oportunidade profissional na área de desenvolvimento**, onde possa aprender, contribuir com a equipe e continuar evoluindo na prática.
 
-01 // ABOUT
+---
 
-Building digital experiences where code meets design.
+## Sobre mim
 
-Front-End Developer & UI/UX Designer criando interfaces modernas com React, Next.js e TypeScript.
+* 🎓 Análise e Desenvolvimento de Sistemas
+* 💻 Foco em desenvolvimento Front-End
+* ⚛️ React e Next.js
+* 🟦 TypeScript e JavaScript
+* 🔗 Integração com APIs REST
+* 🎨 UI/UX Design e Figma
+* 📱 Desenvolvimento de interfaces responsivas
+* 🔧 Git e GitHub
 
-Meu principal objetivo é transformar ideias em experiências digitais que sejam visualmente interessantes, fáceis de usar e tecnicamente bem estruturadas.
+---
 
-Atualmente, meu foco está no ecossistema React / Next.js / TypeScript, enquanto continuo evoluindo em arquitetura de aplicações, APIs e desenvolvimento Full Stack.
+## Tecnologias
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ROLE        Front-End Developer                            │
-│  FOCUS       React • Next.js • TypeScript                   │
-│  DESIGN      UI/UX • Figma • Design Systems                 │
-│  CURRENT     Building • Learning • Improving                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+**Front-End**
 
-02 // STACK
+`HTML` `CSS` `JavaScript` `TypeScript`
+`React` `Next.js` `Tailwind CSS` `Sass` `Bootstrap`
 
-FRONTEND
+**Integrações e ferramentas**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue" />
-</p>
+`REST API` `Fetch` `Axios` `Firebase` `Firestore`
+`Git` `GitHub` `Vercel` `Figma`
 
-UI / STYLING
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,figma" />
-</p>
+## Projetos
 
-TOOLS / BACKEND
+### 📝 Tasks+
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vite,postman" />
-</p>
+O **Tasks+** é uma aplicação de gerenciamento de tarefas que desenvolvi utilizando **Next.js, React, TypeScript e Firebase**.
 
-Frontend      → HTML • CSS • JavaScript • TypeScript
-Frameworks    → React • Next.js • Vue.js
-Styling       → Tailwind CSS • Sass • Bootstrap
-Design        → Figma • UI/UX • Design Systems
-Backend       → Node.js • REST APIs
-Tools         → Git • GitHub • Vite • Postman
+O projeto surgiu como uma forma de colocar em prática conceitos que venho estudando e trabalhar com funcionalidades mais próximas de uma aplicação real.
 
-03 // WHAT.I.BUILD
+Entre as funcionalidades estão:
 
-<table>
-<tr>
-<td width="50%">
+* Autenticação de usuários
+* Criação e gerenciamento de tarefas
+* Comentários
+* Operações CRUD
+* Integração com Firebase e Firestore
+* Rotas e páginas de detalhes
+* Componentização com React
+* Tipagem com TypeScript
 
-◈ MODERN INTERFACES
+**Tecnologias:** `Next.js` `React` `TypeScript` `Firebase` `Firestore`
 
-Interfaces responsivas, acessíveis e pensadas para diferentes dispositivos.
+[Ver projeto →](#)
 
-</td>
-<td width="50%">
+---
 
-◈ DIGITAL PRODUCTS
+### 🎬 Cineville
 
-Aplicações web construídas com foco em organização, performance e experiência.
+O **Cineville** foi desenvolvido em equipe durante minha formação na **QA Coders Academy**.
 
-</td>
-</tr>
+O projeto simula uma plataforma de cinema e me proporcionou experiência prática trabalhando com desenvolvimento Front-End, integração com Back-End e desenvolvimento colaborativo.
 
-<tr>
-<td width="50%">
+Durante o projeto, trabalhamos com funcionalidades como:
 
-◈ FRONT-END SYSTEMS
+* Autenticação
+* Catálogo de filmes
+* Produtos
+* Pedidos
+* Fluxo de pagamento
+* Integração com APIs
+* Gerenciamento de estado
 
-Componentes reutilizáveis e estruturas organizadas utilizando React e TypeScript.
+**Tecnologias:** `Next.js` `React` `TypeScript` `Tailwind CSS` `API REST`
 
-</td>
-<td width="50%">
+[Ver projeto →](#)
 
-◈ USER EXPERIENCE
+---
 
-Interfaces que conectam estética, usabilidade e objetivos reais do produto.
+## UI/UX
 
-</td>
-</tr>
-</table>
+Além do desenvolvimento, também tenho interesse e experiência com **UI/UX Design**.
+
+Utilizo o **Figma** para criar wireframes, fluxos e protótipos, buscando entender a necessidade do usuário antes de transformar a ideia em código.
+
+Essa combinação entre **design e desenvolvimento** me ajuda a pensar não apenas em como uma interface funciona, mas também em como ela será utilizada.
+
+---
+
+## O que estou estudando
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+* React e Next.js
+* TypeScript
+* Arquitetura Front-End
+* APIs REST
+* Performance Web
+* Acessibilidade
+* Boas práticas de desenvolvimento
+
+---
+
+## Entre em contato
+
+Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou oportunidades:
+
+**LinkedIn:** [linkedin.com/in/kaynan-teixeira](https://www.linkedin.com/in/kaynan-teixeira)
+
+**GitHub:** [github.com/kaynanldev-f](https://github.com/kaynanldev-f)
+
+**E-mail:** [kaynanldev@gmail.com](mailto:kaynanldev@gmail.com)
+
+---
+
+> Estudando, construindo projetos e evoluindo um pouco a cada dia como desenvolvedor Front-End.
 
 
-
-04 // STATUS → CONTINUOUSLY LEARNING
-
-Atualmente evoluindo em
-
-React & Next.js — aplicações modernas e componentização
-
-TypeScript — código mais seguro e escalável
-
-UI/UX — interfaces claras e experiências melhores
-
-REST APIs — integração entre aplicações e serviços
-
-Node.js — expansão para desenvolvimento Full Stack
-
-Design Systems — componentes reutilizáveis e consistentes
-
-
-05 // CONNECT
-
-<div align="center">
-
-LET'S BUILD SOMETHING DIGITAL.
-
-Se você está criando um produto, interface ou projeto web,vamos conversar e construir algo interessante.
-
-<br/>
-
-<a href="mailto:kaynanldev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=050816"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kaynan-teixeira">
-<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=050816"/>
-</a>
-
-<a href="https://github.com/kaynanldev-f">
-<img src="https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=050816"/>
-</a>
-
-</div>
-
-<div align="center">
-
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│       DESIGN THE EXPERIENCE.                         │
-│       WRITE THE CODE.                                │
-│       BUILD THE FUTURE.                              │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-
-<code /> crafted with curiosity, design and technology.
-
-</div>
